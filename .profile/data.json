@@ -1,8 +1,8 @@
 {
- "key": "c8cd439f",
+ "key": "be2d32d1",
  "stars": 0,
  "contributions": 860,
- "repos": 6,
+ "repos": 5,
  "followers": 1,
  "languages": [
   [
@@ -11,11 +11,7 @@
   ],
   [
    "Python",
-   162169
-  ],
-  [
-   "C++",
-   33679
+   126035
   ]
  ],
  "days": [
@@ -168,15 +164,6 @@
     "wasapi",
     "windows"
    ]
-  },
-  {
-   "name": "mydockfinder-provider-api",
-   "url": "https://github.com/Shizub/mydockfinder-provider-api",
-   "text": "A data-only provider API for the MyDockFinder Finder bar: external programs contribute device rows without the host ever loading third-party code.",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
-   "topics": []
   },
   {
    "name": "Flipper-Zero-ESP32-Port",
