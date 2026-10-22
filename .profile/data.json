@@ -1,0 +1,211 @@
+{
+ "key": "416efa81",
+ "stars": 0,
+ "contributions": 25,
+ "repos": 6,
+ "followers": 1,
+ "languages": [
+  [
+   "C#",
+   196012
+  ],
+  [
+   "Python",
+   162169
+  ],
+  [
+   "Vue",
+   48563
+  ],
+  [
+   "C++",
+   33679
+  ],
+  [
+   "JavaScript",
+   8641
+  ],
+  [
+   "HTML",
+   2602
+  ],
+  [
+   "CSS",
+   2306
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 22,
+    "today": true
+   },
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 2
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "Shizub",
+   "url": "https://github.com/Shizub/Shizub",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "airpods-sound-levels",
+   "url": "https://github.com/Shizub/airpods-sound-levels",
+   "text": "Live headphone loudness meter and daily exposure log for Windows, in the style of the iOS Control Center headphone module",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "airpods",
+    "audio",
+    "hearing-health",
+    "liquid-glass",
+    "pyside6",
+    "wasapi",
+    "windows"
+   ]
+  },
+  {
+   "name": "mydockfinder-provider-api",
+   "url": "https://github.com/Shizub/mydockfinder-provider-api",
+   "text": "A data-only provider API for the MyDockFinder Finder bar: external programs contribute device rows without the host ever loading third-party code.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Flipper-Zero-ESP32-Port",
+   "url": "https://github.com/Shizub/Flipper-Zero-ESP32-Port",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "TheGrandNotch",
+   "url": "https://github.com/Shizub/TheGrandNotch",
+   "text": "Dynamic Island overlay pour Windows 11 — controle media, volume, calendrier, LocalSend",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Site",
+   "url": "https://github.com/Shizub/Site",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Vue",
+   "topics": []
+  }
+ ]
+}
