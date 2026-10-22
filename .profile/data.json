@@ -1,8 +1,8 @@
 {
- "key": "79f4711a",
+ "key": "6a1f5b9f",
  "stars": 0,
- "contributions": 25,
- "repos": 6,
+ "contributions": 26,
+ "repos": 5,
  "followers": 1,
  "languages": [
   [
@@ -14,24 +14,8 @@
    162169
   ],
   [
-   "Vue",
-   48563
-  ],
-  [
    "C++",
    33679
-  ],
-  [
-   "JavaScript",
-   8641
-  ],
-  [
-   "HTML",
-   2602
-  ],
-  [
-   "CSS",
-   2306
   ]
  ],
  "days": [
@@ -131,7 +115,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 3,
     "day": 22,
     "today": true
    },
@@ -196,15 +180,6 @@
    "fork": false,
    "stars": 0,
    "language": "C#",
-   "topics": []
-  },
-  {
-   "name": "Site",
-   "url": "https://github.com/Shizub/Site",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Vue",
    "topics": []
   }
  ]
