@@ -26,17 +26,17 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "Shiz",
-    "subtitle": "I build small Windows utilities and desktop overlays.",
+    "subtitle": "Small Windows utilities and desktop overlays.\nCurrently building Cozy Harbor, a cozy Roblox game.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {
         "icon": "desktop_windows",
-        "label": "Windows"
+        "label": "Windows · Roblox"
       },
       {
         "icon": "code",
-        "label": "Python · C# · Vue"
+        "label": "Luau · Python · C#"
       }
     ]
   },
