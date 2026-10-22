@@ -74,11 +74,16 @@
   "projects": {
     "source": "manual",
     "repos": [
+      "cozy-harbor-showcase",
       "TheGrandNotch",
       "airpods-sound-levels",
       "mydockfinder-provider-api"
     ],
-    "overrides": {},
+    "overrides": {
+      "cozy-harbor-showcase": {
+        "icon": "sports_esports"
+      }
+    },
     "empty": "No description yet.",
     "fork": "Fork"
   },
