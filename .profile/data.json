@@ -1,5 +1,5 @@
 {
- "key": "52debeb1",
+ "key": "f64bf532",
  "stars": 1,
  "contributions": 944,
  "repos": 5,
@@ -113,9 +113,13 @@
    {
     "c": 1,
     "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
     "today": true
    },
-   null,
    null
   ]
  ],
