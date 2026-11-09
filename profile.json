@@ -74,10 +74,10 @@
   "projects": {
     "source": "manual",
     "repos": [
+      "cleanframe-tv",
       "cozy-harbor-showcase",
       "TheGrandNotch",
       "airpods-sound-levels",
-      "cleanframe-tv",
       "mydockfinder-provider-api"
     ],
     "overrides": {
