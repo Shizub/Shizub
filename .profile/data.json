@@ -1,17 +1,29 @@
 {
- "key": "db8c83e3",
+ "key": "d975c870",
  "stars": 2,
- "contributions": 945,
- "repos": 5,
+ "contributions": 964,
+ "repos": 6,
  "followers": 2,
  "languages": [
   [
-   "C#",
-   196012
+   "JavaScript",
+   730698
   ],
   [
    "Python",
-   126035
+   273032
+  ],
+  [
+   "C#",
+   206317
+  ],
+  [
+   "CSS",
+   69198
+  ],
+  [
+   "HTML",
+   18204
   ]
  ],
  "days": [
@@ -74,17 +86,17 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 2,
     "day": 5,
     "today": false
    },
    {
-    "c": 0,
+    "c": 6,
     "day": 6,
     "today": false
    },
    {
-    "c": 0,
+    "c": 7,
     "day": 7,
     "today": false
    }
@@ -96,7 +108,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 5,
     "day": 9,
     "today": true
    },
@@ -108,7 +120,7 @@
   ]
  ],
  "streak": {
-  "current": 1,
+  "current": 12,
   "longest": 13
  },
  "pins": [],
@@ -138,6 +150,23 @@
    "stars": 1,
    "language": "C#",
    "topics": []
+  },
+  {
+   "name": "cleanframe-tv",
+   "url": "https://github.com/Shizub/cleanframe-tv",
+   "text": "A glassy, remote-first home screen for Samsung The Frame: baked Liquid Glass, spring animations and a screen that follows the sun.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "launcher",
+    "liquid-glass",
+    "samsung-tv",
+    "smart-tv",
+    "the-frame",
+    "tizen",
+    "webgl"
+   ]
   },
   {
    "name": "cozy-harbor-showcase",
