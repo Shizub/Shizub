@@ -1,8 +1,8 @@
 {
- "key": "39d905d4",
+ "key": "e7ee1c26",
  "stars": 2,
  "contributions": 966,
- "repos": 6,
+ "repos": 5,
  "followers": 2,
  "languages": [
   [
@@ -166,20 +166,6 @@
     "the-frame",
     "tizen",
     "webgl"
-   ]
-  },
-  {
-   "name": "cozy-harbor-showcase",
-   "url": "https://github.com/Shizub/cozy-harbor-showcase",
-   "text": "A cozy multiplayer island game for Roblox. In development; source code is private.",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": [
-    "cozy-game",
-    "game-development",
-    "luau",
-    "roblox"
    ]
   },
   {
