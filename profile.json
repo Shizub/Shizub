@@ -77,11 +77,15 @@
       "cozy-harbor-showcase",
       "TheGrandNotch",
       "airpods-sound-levels",
+      "cleanframe-tv",
       "mydockfinder-provider-api"
     ],
     "overrides": {
       "cozy-harbor-showcase": {
         "icon": "sports_esports"
+      },
+      "cleanframe-tv": {
+        "icon": "tv"
       }
     },
     "empty": "No description yet.",
