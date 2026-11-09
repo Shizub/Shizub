@@ -1,6 +1,6 @@
 {
- "key": "f7e1a0fb",
- "stars": 1,
+ "key": "db8c83e3",
+ "stars": 2,
  "contributions": 945,
  "repos": 5,
  "followers": 2,
@@ -131,6 +131,15 @@
    ]
   },
   {
+   "name": "TheGrandNotch",
+   "url": "https://github.com/Shizub/TheGrandNotch",
+   "text": "Dynamic Island overlay pour Windows 11 — controle media, volume, calendrier, LocalSend",
+   "fork": false,
+   "stars": 1,
+   "language": "C#",
+   "topics": []
+  },
+  {
    "name": "cozy-harbor-showcase",
    "url": "https://github.com/Shizub/cozy-harbor-showcase",
    "text": "A cozy multiplayer island game for Roblox. In development; source code is private.",
@@ -160,15 +169,6 @@
    "fork": true,
    "stars": 0,
    "language": "C",
-   "topics": []
-  },
-  {
-   "name": "TheGrandNotch",
-   "url": "https://github.com/Shizub/TheGrandNotch",
-   "text": "Dynamic Island overlay pour Windows 11 — controle media, volume, calendrier, LocalSend",
-   "fork": false,
-   "stars": 0,
-   "language": "C#",
    "topics": []
   }
  ]
