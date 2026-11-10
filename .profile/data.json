@@ -1,6 +1,6 @@
 {
- "key": "25e4d585",
- "stars": 4,
+ "key": "bf902349",
+ "stars": 6,
  "contributions": 966,
  "repos": 5,
  "followers": 3,
@@ -130,20 +130,11 @@
  "pins": [],
  "all": [
   {
-   "name": "TheGrandNotch",
-   "url": "https://github.com/Shizub/TheGrandNotch",
-   "text": "Dynamic Island overlay pour Windows 11 — controle media, volume, calendrier, LocalSend",
-   "fork": false,
-   "stars": 2,
-   "language": "C#",
-   "topics": []
-  },
-  {
    "name": "cleanframe-tv",
    "url": "https://github.com/Shizub/cleanframe-tv",
    "text": "A glassy, remote-first home screen for Samsung The Frame: baked Liquid Glass, spring animations and a screen that follows the sun.",
    "fork": false,
-   "stars": 1,
+   "stars": 2,
    "language": "JavaScript",
    "topics": [
     "launcher",
@@ -160,7 +151,7 @@
    "url": "https://github.com/Shizub/airpods-sound-levels",
    "text": "Live headphone loudness meter and daily exposure log for Windows, in the style of the iOS Control Center headphone module",
    "fork": false,
-   "stars": 1,
+   "stars": 2,
    "language": "Python",
    "topics": [
     "airpods",
@@ -171,6 +162,15 @@
     "wasapi",
     "windows"
    ]
+  },
+  {
+   "name": "TheGrandNotch",
+   "url": "https://github.com/Shizub/TheGrandNotch",
+   "text": "Dynamic Island overlay pour Windows 11 — controle media, volume, calendrier, LocalSend",
+   "fork": false,
+   "stars": 2,
+   "language": "C#",
+   "topics": []
   },
   {
    "name": "Shizub",
