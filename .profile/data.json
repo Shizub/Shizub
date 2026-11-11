@@ -1,5 +1,5 @@
 {
- "key": "bf902349",
+ "key": "c50cbd91",
  "stars": 6,
  "contributions": 966,
  "repos": 5,
@@ -115,16 +115,20 @@
    {
     "c": 0,
     "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
     "today": true
    },
-   null,
    null,
    null,
    null
   ]
  ],
  "streak": {
-  "current": 12,
+  "current": 0,
   "longest": 13
  },
  "pins": [],
