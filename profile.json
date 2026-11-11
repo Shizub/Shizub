@@ -14,19 +14,13 @@
     "wave",
     "socials",
     "about",
-    "stack",
     "buttons"
   ],
-  "hidden": [
-    "socials",
-    "about",
-    "stack",
-    "buttons"
-  ],
+  "hidden": [],
   "hero": {
     "greeting": "Hi, I'm",
     "name": "Shiz",
-    "subtitle": "Small Windows utilities and desktop overlays.",
+    "subtitle": "Roblox games, Windows utilities and desktop overlays.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
@@ -46,28 +40,14 @@
       {
         "icon": "person",
         "label": "Developer and designer"
-      }
-    ]
-  },
-  "stack": {
-    "title": "Tech stack",
-    "groups": [
+      },
       {
-        "title": "Main",
-        "items": [
-          {
-            "icon": "brand:python",
-            "label": "Python"
-          },
-          {
-            "icon": "brand:dotnet",
-            "label": ".NET"
-          },
-          {
-            "icon": "brand:vuedotjs",
-            "label": "Vue"
-          }
-        ]
+        "icon": "videogame_asset",
+        "label": "Roblox · Windows"
+      },
+      {
+        "icon": "palette",
+        "label": "Design Apple / Nintendo"
       }
     ]
   },
@@ -76,8 +56,7 @@
     "repos": [
       "cleanframe-tv",
       "TheGrandNotch",
-      "airpods-sound-levels",
-      "mydockfinder-provider-api"
+      "airpods-sound-levels"
     ],
     "overrides": {
       "cleanframe-tv": {
@@ -120,7 +99,7 @@
       {
         "icon": "book_2",
         "label": "All repositories",
-        "url": "",
+        "url": "https://github.com/Shizub?tab=repositories",
         "style": "tonal"
       }
     ]
