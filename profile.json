@@ -16,7 +16,9 @@
     "about",
     "buttons"
   ],
-  "hidden": [],
+  "hidden": [
+    "stack"
+  ],
   "hero": {
     "greeting": "Hi, I'm",
     "name": "Shiz",
@@ -103,5 +105,9 @@
         "style": "tonal"
       }
     ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": []
   }
 }
