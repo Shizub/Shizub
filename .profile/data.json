@@ -1,5 +1,5 @@
 {
- "key": "d1f5586d",
+ "key": "bda1357e",
  "stars": 6,
  "contributions": 1217,
  "repos": 4,
@@ -125,14 +125,18 @@
    {
     "c": 0,
     "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 13,
+  "current": 0,
   "longest": 13
  },
  "pins": [
